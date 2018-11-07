@@ -6,6 +6,7 @@ The workshop topic was data visualisation, so we decided to give it a spin and m
 
 
 [![](Media/demo.gif)](https://drive.google.com/file/d/0BxsBFm8YwdRAbDk5NHRTSVMybkU/view?usp=sharing)
+
 (click for video)
 
 
