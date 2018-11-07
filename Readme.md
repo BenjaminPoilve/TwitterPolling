@@ -21,7 +21,7 @@ The core of the program is a processing sketch, communicating through serial wit
 
 In the end, we got quite a few coloured poll! A very fun and simple build. Of course, I am not sure it would work today, I think twitter does not allow access to the firehose anymore.
 
-###Team
+### Team
 
 * Remy Aufort
 * Azelle Dall'Armelina
